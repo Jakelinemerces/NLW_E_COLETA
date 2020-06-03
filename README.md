@@ -6,9 +6,9 @@
 
 <h4>As tecnologias utilizadas neste projeto até o momento, estão sendo:<h4>
   <ul>
-      <li>HTML5<li>
-      <li>Css3<li>
-      <li>JavaScript<li>
+      <li>HTML5</li>
+      <li>Css3</li>
+      <li>JavaScript</li>
  </ul>
   
 <h4>Após o término do desenvolvimento do Front-end, iremos desenvolver o Back-end 
